@@ -1,6 +1,6 @@
 chatGPTAccountPool:
-  - email: email
-    password: password
+  - email: "zhangx2580@gmail.com"
+    password: "xiang12138"
     isGoogleLogin: true
 chatPrivateTiggerKeyword: ""
 openAIProxy: ""
